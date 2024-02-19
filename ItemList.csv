@@ -1,0 +1,4 @@
+ItemId,Name,value,Starting bid,Visual Description,Real description,Minimum Bid,Item Image,Rarity,Type
+1,Harmony's Thread,1000,200,"A fragile-looking silk  thread, loosely coiled into a sort of spring, arm size",Stuff,50,,Rare,Brace
+2,Thing Hammer,500,100,a hammer,does things,20,,common,hammer
+3,3,100,5,3,3,1,,common,weapon
